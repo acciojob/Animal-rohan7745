@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+*{
+	background-color:black;
+	margin:0px;
+	padding:0px;
+}
+#image{
+	display:flex;
+	justify-content:center;
+}
+img{
+	width:170px;
+	border-radius:5px;
+	margin:7px;
+}
+#photo-heading{
+	color:white;
+	text-align:center;
+}
+#animal-photos{
+	background-color:white;
+	overflow:hidden;
+	height:100%;
+}
